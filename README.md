@@ -4,6 +4,6 @@
 
 `npm i ds-services-labels`
 
-`import dsLabel from "ds-services-labels"`
+`import * as dsLabel from "ds-services-labels"`
 
 `app.use(dsLabel)`
